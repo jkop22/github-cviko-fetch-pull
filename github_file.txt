@@ -1,8 +1,5 @@
-bla
+la
 bla bla
-a tady jsem trochu mazal
-fdfasdf
-asf
 asd
 f
 toto jsem pridal ja
@@ -10,3 +7,5 @@ toto jsem pridal ja
 toto
 toto toto toto
 toto taky jsem pridal ja
+toto pridal kolega 
+toto taky pridal kolega
