@@ -6,3 +6,4 @@ f
 sdf
 d
 s
+zmena na mainu kvuli konfliktu
