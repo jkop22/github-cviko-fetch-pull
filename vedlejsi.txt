@@ -6,4 +6,6 @@ f
 sdf
 d
 s
+edit v mainu nebyl bo to byle ve vedlejsi
 zmena na mainu kvuli konfliktu
+
